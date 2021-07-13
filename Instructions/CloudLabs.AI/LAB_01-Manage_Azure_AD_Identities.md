@@ -17,7 +17,8 @@ In this lab, you will:
 ## Estimated timing: 30 minutes
 
 ## Architecture diagram
-![image](../media/lab01.png)
+
+![](Images/lab01.png)
 
 ## Instructions
 
