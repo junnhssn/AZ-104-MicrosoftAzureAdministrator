@@ -26,8 +26,8 @@ In this lab, you will:
 
 #### Task 1: Register the Microsoft.Kubernetes and Microsoft.KubernetesConfiguration resource providers (READ ONLY).
 
->**Note**: Kubernetes are registered while lauching the lab(Don't perform this task).
-
+   >**Note**: Kubernetes are registered while lauching the lab(Don't perform this task).
+   
 In this task, you will register resource providers necessary to deploy an Azure Kubernetes Services cluster.
 
 1. Sign in to the [Azure portal](https://portal.azure.com).
@@ -36,7 +36,7 @@ In this task, you will register resource providers necessary to deploy an Azure 
 
 1. If prompted to select either **Bash** or **PowerShell**, select **PowerShell**.
 
-    >**Note**: If this is the first time you are starting **Cloud Shell** and you are presented with the **You have no storage mounted** message, select the subscription you are using in this lab, and click **Create storage**.
+     >**Note**: If this is the first time you are starting **Cloud Shell** and you are presented with the **You have no storage mounted** message, select the subscription you are using in this lab, and click **Create storage**.
 
 1. From the Cloud Shell pane, run the following to register the Microsoft.Kubernetes and Microsoft.KubernetesConfiguration resource providers.
 
